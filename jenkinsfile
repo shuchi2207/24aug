@@ -1,6 +1,3 @@
-Maven pipeline with each stage as each job for maven build:
-
-
 pipeline {
 
     tools{
